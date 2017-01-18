@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    font-family: avenir;
+    text-align: center;
+    font-size: 55px;
+
+}
+p {
+    color: white;
+    font-family: avenir;
+    text-align: center;
+}
+
+a {
+	color: white;
+    font-family: avenir;
+    text-align: center;
+}
+
+img {
+	display: block;
+    margin: auto;
+    width: 25%;
+}
