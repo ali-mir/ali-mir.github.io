@@ -12,6 +12,7 @@ p {
     color: white;
     font-family: avenir;
     text-align: center;
+    font-size: 20px;
 }
 
 a {
@@ -25,4 +26,3 @@ img {
     margin: auto;
     width: 25%;
 }
-
