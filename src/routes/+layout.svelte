@@ -1,0 +1,5 @@
+<nav>
+    <h1>🚀 ali mir</h1> <a href="/">home</a> <a href="/blog">blog</a>
+</nav>
+
+<slot />
