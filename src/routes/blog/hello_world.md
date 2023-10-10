@@ -1,8 +1,8 @@
 ---
-title: Hello World!
+title: hello world!
 date: 2023-10-07
 ---
 
-# Hello world!
+# hello world!
 
-hello!
+welcome to my blog.
