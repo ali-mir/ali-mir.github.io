@@ -1,13 +1,14 @@
 // Import markdown conversion library
 import {marked} from 'marked';
 // import {fm} from 'front-matter';
-const fs = require('fs')
 import {error} from '@sveltejs/kit';
+// import {fs} from 'fs';
+import { readFileSync } from 'node:fs';
 
 function parseBlogpost(name: string) {
   console.log(`parsing blog post ${name}`);
 
-  console.log(fs);
+  let data = readFileSync('../../hello_world.md');
   return ["metadata", "content"];
 }
 
@@ -21,3 +22,4 @@ export function load({params}) {
     }
   };
 }
+
