@@ -1,8 +1,4 @@
----
-title: hello world!
-date: 2023-10-07
----
-
 # hello world!
+## October 17, 2023
 
-welcome to my blog.
+welcome to my blog!
