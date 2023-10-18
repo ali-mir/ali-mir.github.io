@@ -1,1 +1,1 @@
-{"type":"data","nodes":[null,{"type":"data","data":[{"post":1},{"title":2,"date":3,"content":4},"hello world!","Fri Oct 06 2023 20:00:00 GMT-0400 (Eastern Daylight Time)","content"],"uses":{"params":["slug"]}}]}
+{"type":"data","nodes":[null,{"type":"data","data":[{"post":1},{"content":2},"\u003Ch1>hello world!\u003C/h1>\n\u003Ch2>October 17, 2023\u003C/h2>\n\u003Cp>welcome to my blog!\u003C/p>\n"],"uses":{"params":["slug"]}}]}
