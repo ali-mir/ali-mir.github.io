@@ -1,6 +1,15 @@
-<p>i'm a software engineer based in brooklyn</p>
+<script>
+    import "../app.css";
+</script>
 
-<p>i'm broadly interested in distributed systems, databases, and building abstractions over complex infrastructure problems</p>
-<p>
-    i currently work at mongodb on the replication team, helping write software that makes data durable, available, and fault-tolerant
-</p>
+<div class="p-5">
+    <h1 class="text-[#C44B4F] font-bold">
+        about me
+    </h1>
+    <p>
+        i'm a software engineer based in brooklyn <br>
+        i'm broadly interested in distributed systems, databases, and building abstractions over complex infrastructure problems <br>
+        i currently work at <a href="http://www.mongodb.com" class="text-[#536c73] font-bold">mongoDB</a> on the replication team, helping write software that makes data durable, available, and fault-tolerant <br>
+    </p>
+</div>
+
