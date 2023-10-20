@@ -3,8 +3,8 @@ import { vitePreprocess } from '@sveltejs/kit/vite';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-  paths: { assets: "", base: "/" },
   kit: {
+    appDir: 'app',
     adapter: adapter(),
   },
   preprocess: vitePreprocess(),
