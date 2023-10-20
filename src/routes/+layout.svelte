@@ -2,10 +2,12 @@
     import "../app.css";
 </script>
 
-<body class="bg-[#CBCDCB] p-5">
+<body class="bg-[#e9e9e9] p-5">
     <div>
-        <nav class="flex row space-x-4 text-[#4C5355]">
-            <h1 class="font-bold text-4xl ">ali mir 🚀</h1> <a href="/">home</a> <a href="/blog">blog</a>
+        <nav class="flex row items-center space-x-4 text-[#4C5355]">
+            <h1 class="font-bold text-5xl ">ali mir 🚀</h1>
+            <a href="/" class="mt-2">home</a>
+            <a href="/blog" class="mt-2">blog</a>
         </nav>
     </div>
 </body>

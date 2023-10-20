@@ -4,12 +4,9 @@
 </script>
 
 <style>
-	h1 {
-		@apply font-bold text-[#C44B4F];
-	}
-	h2 {
-		@apply font-bold;
-	}
+	@import "../../../app.css";
 </style>
 
-<div>{@html data.post.content}</div>
+<div>
+	{@html data.post.content}
+</div>
