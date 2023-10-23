@@ -2,7 +2,6 @@
 import {marked} from 'marked';
 import {error} from '@sveltejs/kit';
 import { readFileSync } from 'node:fs';
-import { cwd } from 'node:process';
 
 function parseBlogpost(name: string) {
   const f = readFileSync('./src/routes/blog/hello_world.md', 'utf8');
