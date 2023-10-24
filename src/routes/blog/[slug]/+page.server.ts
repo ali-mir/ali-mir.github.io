@@ -10,11 +10,19 @@ function parseBlogpost(name: string) {
 
 /** @type {import('./$types').PageLoad} */
 export function load({params}) {
-  const content = parseBlogpost(params.slug);
-  return {
-    post: {
-      content: content
-    }
-  };
+  try {
+    const content = parseBlogpost(params.slug);
+    console.log("Logging content variable: " + content);
+    return {
+      post: {
+        content: content
+      }
+    };
+  } catch(err) {
+      throw error(500, {
+        message: "Failed to load blog content",
+      })
+  }
+
 }
 
