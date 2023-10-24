@@ -2,7 +2,7 @@
   import '../app.css';
 </script>
 
-<body class="bg-[#e9e9e9] p-5">
+<body class="bg-[#e9e9e9] p-5 mx-auto w-96">
   <div>
     <nav
       class="flex row items-center space-x-4 text-[#4C5355] justify-center font-bold"

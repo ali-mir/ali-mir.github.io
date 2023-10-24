@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .blogpost {
-  @apply p-5 space-y-2 justify-center h-screen text-center;
+  @apply p-5 space-y-2 h-screen text-center mx-auto w-96;
 }
 
 .blogpost h1 {
@@ -14,5 +14,5 @@
 }
 
 .blogpost p {
-  @apply mt-4 text-[#4C5355] px-80 text-lg leading-relaxed;
+  @apply text-[#4C5355] text-lg leading-relaxed
 }

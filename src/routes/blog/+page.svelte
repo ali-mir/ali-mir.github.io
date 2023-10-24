@@ -2,9 +2,9 @@
   import '../../app.css';
 </script>
 
-<div class="flex justify-center h-screen text-center">
+<div class="flex justify-center h-screen text-center mx-auto w-96">
   <div class="p-5">
-    <h1 class="text-[#C44B4F] font-bold text-3xl justify-center">blog</h1>
+    <h1 class="text-[#C44B4F] font-bold text-3xl">blog</h1>
     <ul class="mt-4">
       <li>
         <!-- hello world -->
