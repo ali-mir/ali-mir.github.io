@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.blogpost {
+  @apply p-5 space-y-2 justify-center h-screen text-center;
+}
+
+.blogpost h1 {
+  @apply text-[#C44B4F] font-bold text-3xl;
+}
+.blogpost h2 {
+  @apply text-xl text-[#4C5355];
+}
+
+.blogpost p {
+  @apply mt-4 text-[#4C5355] px-80 text-lg leading-relaxed;
+}

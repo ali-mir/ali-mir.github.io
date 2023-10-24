@@ -23,6 +23,5 @@ export function load({params}) {
         message: "Failed to load blog content",
       })
   }
-
 }
 
