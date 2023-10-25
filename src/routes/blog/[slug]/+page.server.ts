@@ -8,6 +8,15 @@ function parseBlogpost(name: string) {
   return marked.parse(f);
 }
 
+/** @type {import('./$types').EntryGenerator} */
+export function entries() {
+	return [
+		{ slug: 'hello-world' },
+	];
+}
+
+export const prerender = true;
+
 /** @type {import('./$types').PageLoad} */
 export function load({params}) {
   try {
