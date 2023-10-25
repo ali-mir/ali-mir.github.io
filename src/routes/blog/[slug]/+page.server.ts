@@ -12,7 +12,6 @@ function parseBlogpost(name: string) {
 export function load({params}) {
   try {
     const content = parseBlogpost(params.slug);
-    console.log("Logging content variable: " + content);
     return {
       post: {
         content: content
