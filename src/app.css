@@ -14,5 +14,5 @@
 }
 
 .blogpost p {
-  @apply text-[#4C5355] text-lg leading-relaxed
+  @apply text-[#4C5355] text-lg leading-relaxed;
 }
