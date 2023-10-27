@@ -3,11 +3,6 @@ import {marked} from 'marked';
 import {error} from '@sveltejs/kit';
 import { readFileSync } from 'node:fs';
 
-function parseBlogpost(name: string) {
-  const f = readFileSync('./src/routes/blog/hello_world.md', 'utf8');
-  return marked.parse(f);
-}
-
 /** @type {import('./$types').EntryGenerator} */
 export function entries() {
 	return [
@@ -20,10 +15,10 @@ export const prerender = true;
 /** @type {import('./$types').PageLoad} */
 export function load({params}) {
   try {
-    const content = parseBlogpost(params.slug);
+    const f = readFileSync(`./src/routes/blog/${params.slug}.md`, 'utf8');
     return {
       post: {
-        content: content
+        content: marked.parse(f)
       }
     };
   } catch(err) {
