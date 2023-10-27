@@ -12,6 +12,15 @@
       <a href="/blog" class="mt-2 text-lg">blog</a>
     </nav>
   </div>
+
+  <slot />
+
+  <nav class="flex justify-center space-x-4 text-[#4C5355] text-lg mt-48">
+    <a href="https://github.com/ali-mir">github</a>
+    <a href="https://twitter.com/ali_ahmed_mir">twitter</a>
+    <a href="https://www.goodreads.com/user/show/108118046-ali-mir">goodreads</a>
+  </nav>
 </body>
 
-<slot />
+
+

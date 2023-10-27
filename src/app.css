@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .blogpost {
-  @apply p-5 space-y-2 h-screen ;
+  @apply p-5 space-y-2;
 }
 
 .blogpost h1 {

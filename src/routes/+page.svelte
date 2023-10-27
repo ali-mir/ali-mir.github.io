@@ -2,7 +2,7 @@
   import '../app.css';
 </script>
 
-<div class="flex justify-center h-screen text-center">
+<div class="flex justify-center text-center">
   <div class="p-5">
     <h1 class="text-[#C44B4F] font-bold text-3xl mx-auto w-96">about me</h1>
     <p class="mt-4 text-[#4C5355] text-lg leading-relaxed mx-auto w-96">
