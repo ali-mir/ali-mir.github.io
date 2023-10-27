@@ -2,8 +2,8 @@
   import '../app.css';
 </script>
 
-<body class="bg-[#e9e9e9] p-5 mx-auto w-96">
-  <div>
+<body class="bg-[#e9e9e9]">
+  <div class="p-5 mx-auto w-96">
     <nav
       class="flex row items-center space-x-4 text-[#4C5355] justify-center font-bold"
     >

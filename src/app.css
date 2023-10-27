@@ -3,16 +3,16 @@
 @tailwind utilities;
 
 .blogpost {
-  @apply p-5 space-y-2 h-screen text-center mx-auto w-96;
+  @apply p-5 space-y-2 h-screen ;
 }
 
 .blogpost h1 {
-  @apply text-[#C44B4F] font-bold text-3xl;
+  @apply text-[#C44B4F] font-bold text-3xl mx-auto w-96 text-center;
 }
 .blogpost h2 {
-  @apply text-xl text-[#4C5355];
+  @apply text-[#4C5355] text-xl mx-auto w-96 text-center;
 }
 
 .blogpost p {
-  @apply text-[#4C5355] text-lg leading-relaxed
+  @apply text-[#4C5355] text-lg leading-relaxed w-9/12 mx-auto;
 }
