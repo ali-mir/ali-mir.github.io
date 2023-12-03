@@ -9,7 +9,7 @@
     >
       <h1 class="text-5xl">ali mir 🚀</h1>
       <a href="/" class="mt-2 text-lg">home</a>
-      <a href="/blog" class="mt-2 text-lg">blog</a>
+      <a href="/writing" class="mt-2 text-lg">writing</a>
     </nav>
   </div>
 
