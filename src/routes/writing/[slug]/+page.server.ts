@@ -3,13 +3,6 @@ import {marked} from 'marked';
 import {error} from '@sveltejs/kit';
 import { readFileSync } from 'node:fs';
 
-/** @type {import('./$types').EntryGenerator} */
-export function entries() {
-	return [
-		{ slug: 'hello-world' },
-	];
-}
-
 export const prerender = true;
 
 /** @type {import('./$types').PageLoad} */

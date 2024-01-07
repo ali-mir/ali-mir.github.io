@@ -7,10 +7,18 @@
     <h1 class="text-[#C44B4F] font-bold text-3xl">writing</h1>
     <ul class="mt-4">
       <li>
+        <!-- kindle -->
+        <div class="flex row items-center space-x-4">
+          <a href="/writing/kindle" class="text-[#536c73] font-bold text-lg"
+            >i love my kindle</a
+          >
+          <p class="text-[#536c73]">Jan 7th, 2024</p>
+        </div>
         <!-- hello world -->
         <div class="flex row items-center space-x-4">
-          <a href="/writing/hello-world" class="text-[#536c73] font-bold text-lg"
-            >hello world</a
+          <a
+            href="/writing/hello-world"
+            class="text-[#536c73] font-bold text-lg">hello world</a
           >
           <p class="text-[#536c73]">Oct 17th, 2023</p>
         </div>
