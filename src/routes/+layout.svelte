@@ -2,6 +2,10 @@
   import '../app.css';
 </script>
 
+<svelte:head>
+  <title>ali mir</title>
+</svelte:head>
+
 <body class="bg-[#e9e9e9]">
   <div class="p-5 mx-auto w-96">
     <nav

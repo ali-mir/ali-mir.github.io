@@ -11,7 +11,8 @@ export function load({params}) {
     const f = readFileSync(`./src/routes/writing/${params.slug}.md`, 'utf8');
     return {
       post: {
-        content: marked.parse(f)
+        content: marked.parse(f),
+        slug: params.slug
       }
     };
   } catch(err) {
