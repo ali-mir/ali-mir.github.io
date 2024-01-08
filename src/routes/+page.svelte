@@ -2,6 +2,10 @@
   import '../app.css';
 </script>
 
+<svelte:head>
+  <title>ali mir</title>
+</svelte:head>
+
 <div class="flex justify-center text-center">
   <div class="p-5">
     <h1 class="text-[#C44B4F] font-bold text-3xl mx-auto w-96">about me</h1>
