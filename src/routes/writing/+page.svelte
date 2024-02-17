@@ -13,8 +13,8 @@
       <li>
         <!-- kindle -->
         <div class="flex row items-center space-x-4">
-          <a href="/writing/kindle" class="text-[#536c73] font-bold text-lg"
-            >i love my kindle</a
+          <a href="/writing/reading" class="text-[#536c73] font-bold text-lg"
+            >back to reading</a
           >
           <p class="text-[#536c73]">Jan 7th, 2024</p>
         </div>
