@@ -13,8 +13,9 @@
       <li>
         <!-- carnegie -->
         <div class="flex row items-center space-x-4">
-          <a href="/writing/carnegiehall" class="text-[#536c73] font-bold text-lg"
-            >carnegie hall</a
+          <a
+            href="/writing/carnegiehall"
+            class="text-[#536c73] font-bold text-lg">carnegie hall</a
           >
           <p class="text-[#536c73]">April 30th, 2024</p>
         </div>

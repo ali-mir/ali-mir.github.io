@@ -7,7 +7,7 @@ Side note: I always imagined that performing in Carnegie Hall was an impossible 
 
 I went in without any expectations, as Emma bought the tickets and planned the evening, so I didn’t even know what we were going to be hearing! It ended up being the **[music of Ola Gjeilo](https://dciny.org/events/a-soul-filled-journey-the-music-of-ola-gjeilo/)**, a Norwegian composer, and it was mostly choral music accompanied by the orchestra. I really liked the performance — I felt myself enter a dream-like state the entire time. Perhaps it was the historic ambiance of the venue, my slight sleep deprivation from a busy weekend, or —most likely— the music's resemblance to a fantasy film soundtrack (I’m looking at you, LOTR). I don’t typically listen to a lot of choral music, but I excited Carnegie Hall feeling happy with the new experience.
 
-Sometimes, I forget that I have a plethora of world-class arts and culture within my reach, just by virtue of living in New York City. I get so caught up in the humdrum of life: trying to work hard, see friends, stay active, sleep well. This week’s performance was a gentle reminder to make sure I experience these wonderful things while I still can.
+Sometimes I forget that I have a plethora of world-class arts and culture within my reach, just by virtue of living in New York City. I get so caught up in the humdrum of life: trying to work hard, see friends, stay active, sleep well. This week’s performance was a gentle reminder to make sure I experience these wonderful things while I still can.
 
 
 ![performance hall](/carnegie.jpeg)
