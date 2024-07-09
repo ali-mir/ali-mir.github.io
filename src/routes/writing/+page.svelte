@@ -11,6 +11,14 @@
     <h1 class="text-[#C44B4F] font-bold text-3xl">writing</h1>
     <ul class="mt-4">
       <li>
+        <!-- internet slice #02 -->
+        <div class="flex row items-center space-x-4">
+          <a
+            href="/writing/internetslice2"
+            class="text-[#536c73] font-bold text-lg">internet slice #02</a
+          >
+          <p class="text-[#536c73]">June 30th, 2024</p>
+        </div>
         <!-- internet slice #01 -->
         <div class="flex row items-center space-x-4">
           <a

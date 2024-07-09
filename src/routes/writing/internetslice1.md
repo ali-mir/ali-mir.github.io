@@ -11,4 +11,4 @@ hardware, performance, software intuition
 
 **[How to Find the Spirit of H.P. Lovecraft in Providence](https://www.nytimes.com/2016/08/14/travel/hp-lovecraft-providence.html)**
 
-providence ri, horror fiction, neighborhood history
+providence ri, horror fiction, city history
