@@ -11,6 +11,13 @@
     <h1 class="text-[#C44B4F] font-bold text-3xl">writing</h1>
     <ul class="mt-4">
       <li>
+        <!-- jury duty -->
+        <div class="flex row items-center space-x-4">
+          <a href="/writing/juryduty" class="text-[#536c73] font-bold text-lg"
+            >jury duty</a
+          >
+          <p class="text-[#536c73]">September 14th, 2024</p>
+        </div>
         <!-- internet slice #04 -->
         <div class="flex row items-center space-x-4">
           <a
