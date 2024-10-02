@@ -15,8 +15,8 @@
       infrastructure problems. i currently work at <a
         href="http://www.mongodb.com"
         class="text-[#536c73] font-bold">MongoDB</a
-      > on the replication team, helping write software that makes data durable,
-      available, and fault-tolerant. i like playing punk rock, all types of science
+      > on the replication team, helping write fault-tolerant software that makes
+      data durable and available. i like playing punk rock, all types of science
       fiction, and spending time with people i love.
     </p>
   </div>
