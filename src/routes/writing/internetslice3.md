@@ -9,6 +9,6 @@ brooklyn neighborhood grocery store
 
 weather app design
 
-[**Open Source AI Is the Path Forward**](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)**
+[**Open Source AI Is the Path Forward**](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
 
 artificial intelligence
