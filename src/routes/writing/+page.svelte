@@ -11,21 +11,22 @@
     <h1 class="text-[#C44B4F] font-bold text-3xl">writing</h1>
     <ul class="mt-4">
       <li>
-        <!-- internet slice #06 -->
+        <!-- internet slice november-present -->
         <div class="flex row items-center space-x-4">
           <a
-            href="/writing/internetslice6"
-            class="text-[#536c73] font-bold text-lg">internet slice #06</a
+            href="/writing/internetslice3_nov_present"
+            class="text-[#536c73] font-bold text-lg"
+            >internet slice, nov-present</a
+          >
+          <p class="text-[#536c73]">Dec 20th, 2024</p>
+        </div>
+        <!-- internet slice august-october -->
+        <div class="flex row items-center space-x-4">
+          <a
+            href="/writing/internetslice2_aug_oct"
+            class="text-[#536c73] font-bold text-lg">internet slice, aug-oct</a
           >
           <p class="text-[#536c73]">October 31st, 2024</p>
-        </div>
-        <!-- internet slice #05 -->
-        <div class="flex row items-center space-x-4">
-          <a
-            href="/writing/internetslice5"
-            class="text-[#536c73] font-bold text-lg">internet slice #05</a
-          >
-          <p class="text-[#536c73]">September 30th, 2024</p>
         </div>
         <!-- jury duty -->
         <div class="flex row items-center space-x-4">
@@ -34,37 +35,13 @@
           >
           <p class="text-[#536c73]">September 14th, 2024</p>
         </div>
-        <!-- internet slice #04 -->
+        <!-- internet slice may-july -->
         <div class="flex row items-center space-x-4">
           <a
-            href="/writing/internetslice4"
-            class="text-[#536c73] font-bold text-lg">internet slice #04</a
-          >
-          <p class="text-[#536c73]">August 31st, 2024</p>
-        </div>
-        <!-- internet slice #03 -->
-        <div class="flex row items-center space-x-4">
-          <a
-            href="/writing/internetslice3"
-            class="text-[#536c73] font-bold text-lg">internet slice #03</a
+            href="/writing/internetslice1_may_july"
+            class="text-[#536c73] font-bold text-lg">internet slice, may-july</a
           >
           <p class="text-[#536c73]">July 31st, 2024</p>
-        </div>
-        <!-- internet slice #02 -->
-        <div class="flex row items-center space-x-4">
-          <a
-            href="/writing/internetslice2"
-            class="text-[#536c73] font-bold text-lg">internet slice #02</a
-          >
-          <p class="text-[#536c73]">June 30th, 2024</p>
-        </div>
-        <!-- internet slice #01 -->
-        <div class="flex row items-center space-x-4">
-          <a
-            href="/writing/internetslice1"
-            class="text-[#536c73] font-bold text-lg">internet slice #01</a
-          >
-          <p class="text-[#536c73]">May 31st, 2024</p>
         </div>
         <!-- carnegie -->
         <div class="flex row items-center space-x-4">
