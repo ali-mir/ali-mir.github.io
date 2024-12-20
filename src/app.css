@@ -2,6 +2,46 @@
 @tailwind components;
 @tailwind utilities;
 
+.grid {
+  display: grid;
+  grid-template-columns: 300px auto; /* Increase the title column width */
+  gap: 1rem; /* Space between columns */
+  padding: 0.5rem 0;
+  align-items: center;
+}
+
+.grid a {
+  text-align: left;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: #536c73;
+  white-space: nowrap; /* prevent wrapping */
+}
+
+.grid p {
+  text-align: right;
+  font-size: 1rem;
+  color: #888888;
+}
+
+.grid-cols-[auto_1fr] {
+  grid-template-columns: auto 1fr;
+}
+
+.text-right {
+  text-align: right; /* Align dates to the right */
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+}
+
 .blogpost {
   @apply p-5 space-y-2;
 }
