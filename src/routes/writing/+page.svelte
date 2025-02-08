@@ -15,8 +15,7 @@
           <!-- internet slice november-jan -->
           <a
             href="/writing/internetslice3_nov_jan"
-            class="text-[#536c73] font-bold text-lg"
-            >internet slice, nov-jan</a
+            class="text-[#536c73] font-bold text-lg">internet slice, nov-jan</a
           >
           <p class="text-[#536c73] text-right">january 31st, 2025</p>
 
