@@ -12,7 +12,14 @@
     <ul class="mt-4">
       <li>
         <div class="grid grid-cols-[1fr_auto] gap-6">
-          <!-- internet slice november-jan -->
+          <!-- internet slice february-may -->
+          <a
+            href="/writing/internetslice4_feb_may"
+            class="text-[#536c73] font-bold text-lg">internet slice, feb-may</a
+          >
+          <p class="text-[#536c73] text-right">may 31st, 2025</p>
+
+          <!-- internet slice november-january -->
           <a
             href="/writing/internetslice3_nov_jan"
             class="text-[#536c73] font-bold text-lg">internet slice, nov-jan</a
