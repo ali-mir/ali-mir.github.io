@@ -11,13 +11,12 @@
     <h1 class="text-[#C44B4F] font-bold text-3xl mx-auto w-96">about me</h1>
     <p class="mt-4 text-[#4C5355] text-lg leading-relaxed mx-auto w-96">
       i'm a software engineer based in brooklyn. i'm broadly interested in
-      distributed systems, databases, and building abstractions over complex
-      infrastructure problems. i currently work at <a
+      distributed systems, databases, and high-performance software. i work at <a
         href="http://www.mongodb.com"
         class="text-[#536c73] font-bold">MongoDB</a
-      >, helping write fault-tolerant database software that makes data durable
-      and available. i like playing punk rock music, reading all types of
-      science fiction, and spending time with people i love.
+      > on the database server team, with a focus on data replication. i love reading
+      science fiction and historical nonfiction, playing indie rock music, supporting
+      liverpool FC, and spending time with people i love.
     </p>
   </div>
 </div>
