@@ -1,4 +1,4 @@
-# internet slice, nov-jan
+# links #3, nov 2024-jan 2025
 ## january 31st, 2025
 
 [**God’s Directive**](https://www.nybooks.com/articles/2024/11/21/gods-directive-soul-by-soul-rozina-ali/)

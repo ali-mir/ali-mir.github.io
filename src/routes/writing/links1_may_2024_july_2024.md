@@ -1,4 +1,4 @@
-# internet slice, may-july
+# links #1, may-july 2024
 ## july 31st, 2024
 
 [**Stripe's monorepo developer environment**](https://blog.nelhage.com/post/stripe-dev-environment/)

@@ -12,24 +12,24 @@
     <ul class="mt-4">
       <li>
         <div class="grid grid-cols-[1fr_auto] gap-6">
-          <!-- internet slice february-may -->
+          <!-- links february-may -->
           <a
-            href="/writing/internetslice4_feb_may"
-            class="text-[#536c73] font-bold text-lg">internet slice, feb-may</a
+            href="/writing/links4_feb_2025_may_2025"
+            class="text-[#536c73] font-bold text-lg">links #4</a
           >
           <p class="text-[#536c73] text-right">may 31st, 2025</p>
 
-          <!-- internet slice november-january -->
+          <!-- links november-january -->
           <a
-            href="/writing/internetslice3_nov_jan"
-            class="text-[#536c73] font-bold text-lg">internet slice, nov-jan</a
+            href="/writing/links3_nov_2024_jan_2025"
+            class="text-[#536c73] font-bold text-lg">links #3</a
           >
           <p class="text-[#536c73] text-right">january 31st, 2025</p>
 
-          <!-- internet slice august-october -->
+          <!-- links august-october -->
           <a
-            href="/writing/internetslice2_aug_oct"
-            class="text-[#536c73] font-bold text-lg">internet slice, aug-oct</a
+            href="/writing/links2_aug_2024_oct_2024"
+            class="text-[#536c73] font-bold text-lg">links #2</a
           >
           <p class="text-[#536c73] text-right">october 31st, 2024</p>
 
@@ -39,10 +39,10 @@
           >
           <p class="text-[#536c73] text-right">september 14th, 2024</p>
 
-          <!-- internet slice may-july -->
+          <!-- links may 2024 - july 2024 -->
           <a
-            href="/writing/internetslice1_may_july"
-            class="text-[#536c73] font-bold text-lg">internet slice, may-july</a
+            href="/writing/links1_may_2024_july_2024"
+            class="text-[#536c73] font-bold text-lg">links #1</a
           >
           <p class="text-[#536c73] text-right">july 31st, 2024</p>
 

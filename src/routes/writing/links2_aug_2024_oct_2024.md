@@ -1,4 +1,4 @@
-# internet slice, aug-oct
+# links #2, aug-oct 2024
 ## october 31st, 2024
 
 [**The quiet plan to make the internet feel faster**](https://www.theverge.com/23655762/l4s-internet-apple-comcast-latency-speed-bandwidth)
