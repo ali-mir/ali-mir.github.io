@@ -12,6 +12,13 @@
     <ul class="mt-4">
       <li>
         <div class="grid grid-cols-[1fr_auto] gap-6">
+          <!-- links june-august -->
+          <a
+            href="/writing/links5_june_2025_aug_2025"
+            class="text-[#536c73] font-bold text-lg">links #5</a
+          >
+          <p class="text-[#536c73] text-right">august 31st, 2025</p>
+
           <!-- links february-may -->
           <a
             href="/writing/links4_feb_2025_may_2025"
