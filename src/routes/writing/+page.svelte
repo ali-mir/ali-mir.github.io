@@ -12,6 +12,13 @@
     <ul class="mt-4">
       <li>
         <div class="grid grid-cols-[1fr_auto] gap-6">
+          <!-- links september-november -->
+          <a
+            href="/writing/links6_sept_2025_nov_2025"
+            class="text-[#536c73] font-bold text-lg">links #6</a
+          >
+          <p class="text-[#536c73] text-right">november 30th, 2025</p>
+
           <!-- links june-august -->
           <a
             href="/writing/links5_june_2025_aug_2025"
@@ -40,11 +47,11 @@
           >
           <p class="text-[#536c73] text-right">october 31st, 2024</p>
 
-          <!-- jury duty -->
+          <!-- jury duty
           <a href="/writing/juryduty" class="text-[#536c73] font-bold text-lg"
             >jury duty</a
           >
-          <p class="text-[#536c73] text-right">september 14th, 2024</p>
+          <p class="text-[#536c73] text-right">september 14th, 2024</p> -->
 
           <!-- links may 2024 - july 2024 -->
           <a
@@ -53,24 +60,24 @@
           >
           <p class="text-[#536c73] text-right">july 31st, 2024</p>
 
-          <!-- carnegie -->
+          <!-- carnegie
           <a
             href="/writing/carnegiehall"
             class="text-[#536c73] font-bold text-lg">carnegie hall</a
           >
-          <p class="text-[#536c73] text-right">april 30th, 2024</p>
+          <p class="text-[#536c73] text-right">april 30th, 2024</p> -->
 
-          <!-- reading -->
+          <!-- reading
           <a href="/writing/reading" class="text-[#536c73] font-bold text-lg"
             >back to reading</a
           >
-          <p class="text-[#536c73] text-right">january 7th, 2024</p>
+          <p class="text-[#536c73] text-right">january 7th, 2024</p> -->
 
-          <!-- hello world -->
+          <!-- hello world
           <a href="/writing/hello" class="text-[#536c73] font-bold text-lg"
             >hello world</a
           >
-          <p class="text-[#536c73] text-right">october 17th, 2023</p>
+          <p class="text-[#536c73] text-right">october 17th, 2023</p> -->
         </div>
       </li>
     </ul>
