@@ -47,11 +47,11 @@
           >
           <p class="text-[#536c73] text-right">october 31st, 2024</p>
 
-          <!-- jury duty
+          <!-- jury duty -->
           <a href="/writing/juryduty" class="text-[#536c73] font-bold text-lg"
             >jury duty</a
           >
-          <p class="text-[#536c73] text-right">september 14th, 2024</p> -->
+          <p class="text-[#536c73] text-right">september 14th, 2024</p>
 
           <!-- links may 2024 - july 2024 -->
           <a
