@@ -60,12 +60,12 @@
           >
           <p class="text-[#536c73] text-right">july 31st, 2024</p>
 
-          <!-- carnegie
+          <!-- carnegie -->
           <a
             href="/writing/carnegiehall"
             class="text-[#536c73] font-bold text-lg">carnegie hall</a
           >
-          <p class="text-[#536c73] text-right">april 30th, 2024</p> -->
+          <p class="text-[#536c73] text-right">april 30th, 2024</p>
 
           <!-- reading
           <a href="/writing/reading" class="text-[#536c73] font-bold text-lg"
