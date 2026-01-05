@@ -10,4 +10,4 @@ Emma had bought the tickets and planned the evening, so I went in without any ex
 I sometimes forget how much world-class art and culture sits within my reach, just by virtue of living in New York City. On the subway ride home, it struck me that a casual weekday evening had taken us to one of the most reputable music venues in the world. It’s easy to get absorbed in routines—work, friendships, staying active, sleeping well. The performance felt like a gentle reminder to make sure to step outside that rhythm once in a while.
 
 
-![performance hall](/carnegie.jpeg)
+<img src="/carnegie.jpeg" alt="performance hall" style="width: 25%; display: block; margin: 0 auto;">
