@@ -6,24 +6,25 @@
   <title>ali mir</title>
 </svelte:head>
 
-<body class="bg-[#e9e9e9]">
-  <div class="p-5 mx-auto w-96">
+<div class="bg-[#e9e9e9] min-h-screen">
+  <header class="p-5 mx-auto">
     <nav
       class="flex row items-center space-x-4 text-[#4C5355] justify-center font-bold"
     >
       <h1 class="text-5xl">ali mir 🚀</h1>
-      <a href="/" class="mt-2 text-lg">home</a>
-      <a href="/writing" class="mt-2 text-lg">writing</a>
+      <a href="/" class="mt-2 text-lg focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1">home</a>
+      <a href="/writing" class="mt-2 text-lg focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1">writing</a>
     </nav>
-  </div>
+  </header>
 
-  <slot />
+  <main>
+    <slot />
+  </main>
 
-  <nav class="flex justify-center space-x-4 text-[#4C5355] text-lg mt-48">
-    <a href="mailto:ali.ahmed.mir@gmail.com">email</a>
-    <a href="https://github.com/ali-mir">github</a>
-    <a href="https://twitter.com/ali_ahmed_mir">twitter</a>
-    <a href="https://www.goodreads.com/user/show/108118046-ali-mir">goodreads</a
-    >
-  </nav>
-</body>
+  <footer class="flex justify-center space-x-4 text-[#4C5355] text-lg mt-48 pb-8">
+    <a href="mailto:ali.ahmed.mir@gmail.com" class="focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1">email</a>
+    <a href="https://github.com/ali-mir" class="focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1">github</a>
+    <a href="https://twitter.com/ali_ahmed_mir" class="focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1">twitter</a>
+    <a href="https://www.goodreads.com/user/show/108118046-ali-mir" class="focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1">goodreads</a>
+  </footer>
+</div>
