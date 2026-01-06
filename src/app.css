@@ -2,36 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.grid {
-  display: grid;
-  grid-template-columns: 300px auto; /* Increase the title column width */
-  gap: 1rem; /* Space between columns */
-  padding: 0.5rem 0;
-  align-items: center;
-}
-
-.grid a {
-  text-align: left;
-  font-size: 1.2rem;
-  font-weight: bold;
-  text-decoration: none;
-  color: #536c73;
-  white-space: nowrap; /* prevent wrapping */
-}
-
-.grid p {
-  text-align: right;
-  font-size: 1rem;
-  color: #888888;
-}
-
-.grid-cols-[auto_1fr] {
-  grid-template-columns: auto 1fr;
-}
-
-.text-right {
-  text-align: right; /* Align dates to the right */
-}
 
 ul {
   padding: 0;
@@ -42,17 +12,73 @@ li {
   list-style: none;
 }
 
-.blogpost {
-  @apply p-5 space-y-2;
+/* Links posts */
+.blogpost-links {
+  @apply py-8 px-4 space-y-2;
 }
 
-.blogpost h1 {
-  @apply text-[#C44B4F] font-bold text-3xl mx-auto w-96 text-center;
-}
-.blogpost h2 {
-  @apply text-[#4C5355] text-xl mx-auto w-96 text-center;
+.blogpost-links h1 {
+  @apply text-[#C44B4F] font-bold text-3xl mx-auto max-w-2xl text-center mb-2;
 }
 
-.blogpost p {
-  @apply text-[#4C5355] text-lg leading-relaxed w-9/12 mx-auto;
+.blogpost-links h2 {
+  @apply text-[#888888] text-sm tracking-wide uppercase mx-auto max-w-2xl text-center mb-12;
+}
+
+.blogpost-links p {
+  @apply text-[#2a2a2a] mx-auto max-w-2xl;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.125rem;
+  line-height: 1.8;
+}
+
+.blogpost-links p a {
+  color: #536c73;
+}
+
+.blogpost-links p a:hover {
+  color: #C44B4F;
+}
+
+/* Prose posts - refined typography */
+.blogpost-prose {
+  @apply py-8 px-4;
+}
+
+.blogpost-prose h1 {
+  @apply text-[#C44B4F] font-bold text-3xl mx-auto max-w-xl text-center mb-2;
+}
+
+.blogpost-prose h2 {
+  @apply text-[#888888] text-sm tracking-wide uppercase mx-auto max-w-xl text-center mb-12;
+}
+
+.blogpost-prose p {
+  @apply text-[#2a2a2a] mx-auto max-w-xl mb-6;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.125rem;
+  line-height: 1.8;
+}
+
+.blogpost-prose p a {
+  color: #536c73;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.blogpost-prose p a:hover {
+  color: #C44B4F;
+}
+
+.blogpost-prose strong {
+  font-weight: 600;
+}
+
+.blogpost-prose em {
+  font-style: italic;
+}
+
+.blogpost-prose img {
+  @apply my-8 mx-auto;
 }
