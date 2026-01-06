@@ -1,5 +1,5 @@
 # links #6, sept-nov 2025
-## nov 30th, 2025
+## november 30th, 2025
 
 [**The day Return became Enter**](https://aresluna.org/the-day-return-became-enter/)
 

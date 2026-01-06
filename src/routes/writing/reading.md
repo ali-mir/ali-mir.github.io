@@ -1,3 +1,6 @@
+# back to reading
+## january 7th, 2024
+
 Goodreads recently released their annual *Your Year in Books* review, and I read 23 books over the course of 2023! Ever since I started tracking my reading a few years ago, I’ve steadily increased the number of books I read each year:
 
 2020: 7 books
