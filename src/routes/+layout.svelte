@@ -6,7 +6,7 @@
   <title>ali mir</title>
 </svelte:head>
 
-<div class="bg-[#e9e9e9] min-h-screen">
+<div class="bg-[#f7f5f2] min-h-screen">
   <header class="p-5 mx-auto">
     <nav
       class="flex row items-center space-x-4 text-[#4C5355] justify-center font-bold"
