@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
 
 ul {
   padding: 0;
