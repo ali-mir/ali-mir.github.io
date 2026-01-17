@@ -9,7 +9,7 @@
 <div class="flex justify-center text-center">
   <div class="p-5">
     <h1 class="text-[#C44B4F] font-bold text-3xl mx-auto w-96">about me</h1>
-    <p class="mt-4 text-[#4C5355] text-lg leading-relaxed mx-auto w-96">
+    <p class="mt-4 text-[#4a4543] text-lg leading-relaxed mx-auto w-96">
       i'm a software engineer based in brooklyn. i'm broadly interested in
       distributed systems, databases, and high-performance software. i work at <a
         href="http://www.mongodb.com"
