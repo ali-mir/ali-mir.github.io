@@ -7,4 +7,4 @@ I can’t say much about the case itself, but one unexpected but cool aspect of 
 
 Taken altogether, the answers sketch a faint silhouette of each person’s life—just enough to make it difficult to think of them as complete strangers. The [process](https://en.wikipedia.org/wiki/Voir_dire) is, of course, intentional: attorneys are looking to assemble a jury that appears fair and impartial. Still, there was something faintly intrusive about knowing these minute details. That someone had lived in Prospect Heights for fifteen years, owned a restaurant, or had two children in elementary school.
 
-I was excused by the judge on the second day. The trial was slated to last two weeks, and while I felt mostly relieved, I left with a sense of having departed the party just as it was set to begin.
+I was excused by the judge on the second day. The trial was slated to last two weeks, and while I felt mostly relieved, I left with a sense of having departed the party just as it was about to begin.
