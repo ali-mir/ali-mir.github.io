@@ -57,6 +57,13 @@
         <a href="/writing/carnegiehall" class="text-[#536c73] font-bold text-lg" >carnegie hall</a>
         <p class="text-[#888888] text-sm sm:text-base uppercase tracking-wide">april 30th, 2024</p>
       </li>
+
+      <!-- reading -->
+      <li class="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4">
+        <a href="/writing/reading" class="text-[#536c73] font-bold text-lg" >back to reading</a>
+        <p class="text-[#888888] text-sm sm:text-base uppercase tracking-wide">january 7th, 2024</p>
+      </li>
+
     </ul>
   </div>
 </div>
