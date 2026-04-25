@@ -12,8 +12,16 @@
       class="flex row items-center space-x-4 text-[#4a4543] justify-center font-bold"
     >
       <h1 class="text-5xl">ali mir 🚀</h1>
-      <a href="/" class="mt-2 text-lg hover:text-[#C44B4F] transition-colors focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1">home</a>
-      <a href="/writing" class="mt-2 text-lg hover:text-[#C44B4F] transition-colors focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1">writing</a>
+      <a
+        href="/"
+        class="mt-2 text-lg hover:text-[#C44B4F] transition-colors focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1"
+        >home</a
+      >
+      <a
+        href="/writing"
+        class="mt-2 text-lg hover:text-[#C44B4F] transition-colors focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1"
+        >writing</a
+      >
     </nav>
   </header>
 
@@ -21,10 +29,28 @@
     <slot />
   </main>
 
-  <footer class="flex justify-center space-x-4 text-[#4a4543] text-lg mt-48 pb-8">
-    <a href="mailto:ali.ahmed.mir@gmail.com" class="hover:text-[#C44B4F] transition-colors focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1">email</a>
-    <a href="https://github.com/ali-mir" class="hover:text-[#C44B4F] transition-colors focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1">github</a>
-    <a href="https://twitter.com/ali_ahmed_mir" class="hover:text-[#C44B4F] transition-colors focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1">twitter</a>
-    <a href="https://www.goodreads.com/user/show/108118046-ali-mir" class="hover:text-[#C44B4F] transition-colors focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1">goodreads</a>
+  <footer
+    class="flex justify-center space-x-4 text-[#4a4543] text-lg mt-48 pb-8"
+  >
+    <a
+      href="mailto:ali.ahmed.mir@gmail.com"
+      class="hover:text-[#C44B4F] transition-colors focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1"
+      >email</a
+    >
+    <a
+      href="https://github.com/ali-mir"
+      class="hover:text-[#C44B4F] transition-colors focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1"
+      >github</a
+    >
+    <a
+      href="https://twitter.com/ali_ahmed_mir"
+      class="hover:text-[#C44B4F] transition-colors focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1"
+      >twitter</a
+    >
+    <a
+      href="https://www.goodreads.com/user/show/108118046-ali-mir"
+      class="hover:text-[#C44B4F] transition-colors focus:outline-none focus:ring-2 focus:ring-[#C44B4F] rounded px-1"
+      >goodreads</a
+    >
   </footer>
 </div>
