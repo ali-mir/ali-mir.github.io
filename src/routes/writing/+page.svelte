@@ -13,7 +13,6 @@
     <!-- thoughts -->
     <h2 class="text-[#4C5355] font-bold text-xl mt-8 mb-3">thoughts</h2>
     <ul class="space-y-3">
-      <!--
       <li
         class="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4"
       >
@@ -24,7 +23,6 @@
           september 14th, 2024
         </p>
       </li>
-      -->
       <li
         class="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4"
       >
