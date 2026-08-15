@@ -10,13 +10,14 @@
   <div class="p-5">
     <h1 class="text-[#C44B4F] font-bold text-3xl mx-auto w-96">about me</h1>
     <p class="mt-4 text-[#4a4543] text-lg leading-relaxed mx-auto w-96">
-      i'm a software engineer based in brooklyn. i'm broadly interested in
-      distributed systems, databases, and high-performance software. i work at <a
+      i'm a software engineer based in brooklyn. i work at <a
         href="http://www.mongodb.com"
         class="text-[#536c73] font-bold">MongoDB</a
-      > on the database server team, with a focus on data replication. i love reading
-      science fiction and historical nonfiction, playing indie rock music, supporting
-      liverpool FC, and spending time with people i love.
+      > on the database server team, with a focus on data replication. i'm broadly
+      interested in distributed systems, databases, and high-performance software.
+      i read a lot of science fiction, love learning about history, and play indie
+      rock music. i also run, play volleyball and football regularly, and support
+      liverpool FC. mostly, i love spending time with people i care about.
     </p>
   </div>
 </div>
