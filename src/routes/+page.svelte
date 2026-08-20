@@ -17,7 +17,7 @@
       interested in distributed systems, databases, and high-performance software.
       i read a lot of science fiction, love learning about history, and play indie
       rock music. i also run, play volleyball and football regularly, and support
-      liverpool FC. mostly, i love spending time with people i care about.
+      liverpool FC. mostly, i spend a lot of time with people i love.
     </p>
   </div>
 </div>
