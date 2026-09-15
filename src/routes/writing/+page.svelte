@@ -48,6 +48,18 @@
     <!-- links -->
     <h2 class="text-[#4C5355] font-bold text-xl mt-8 mb-3">links</h2>
     <ul class="space-y-3">
+      <!-- june 2026 - august 2026 -->
+      <li
+        class="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4"
+      >
+        <a
+          href="/writing/links9_june2026_aug2026"
+          class="text-[#536c73] font-bold text-lg">links #9</a
+        >
+        <p class="text-[#888888] text-sm sm:text-base uppercase tracking-wide">
+          august 31st, 2026
+        </p>
+      </li>
       <!-- march 2026 - may 2026 -->
       <li
         class="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4"
