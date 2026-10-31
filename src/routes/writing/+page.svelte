@@ -166,7 +166,17 @@
       raw, little polish!
     </p>
     <ul class="space-y-3">
-      <li class="text-[#888888] text-sm italic">coming soon</li>
+      <li
+        class="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-4"
+      >
+        <a
+          href="/writing/software_notes/runtime"
+          class="text-[#536c73] font-bold text-lg">runtime</a
+        >
+        <p class="text-[#888888] text-sm sm:text-base uppercase tracking-wide">
+          october 30th, 2026
+        </p>
+      </li>
     </ul>
   </div>
 </div>

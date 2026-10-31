@@ -85,3 +85,75 @@ li {
 .blogpost-prose img {
   @apply my-8 mx-auto;
 }
+
+.blogpost-prose h3 {
+  @apply text-[#4C5355] font-bold text-xl mx-auto max-w-xl mt-10 mb-4;
+}
+
+.blogpost-prose > ul,
+.blogpost-prose > ol {
+  @apply text-[#2a2a2a] mx-auto max-w-xl mb-6;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.125rem;
+  line-height: 1.8;
+}
+
+.blogpost-prose ul ul {
+  @apply pl-5;
+}
+
+.blogpost-prose ul li {
+  @apply ml-5;
+  list-style: disc;
+}
+
+.blogpost-prose ul ul li {
+  list-style: circle;
+}
+
+.blogpost-prose code {
+  @apply bg-[#f3f3f1] rounded px-1;
+  font-size: 0.875em;
+}
+
+.blogpost-prose pre {
+  @apply bg-[#f3f3f1] rounded mx-auto max-w-xl mb-6 p-4 overflow-x-auto;
+  font-size: 1rem;
+  line-height: 1.6;
+  tab-size: 4;
+}
+
+.blogpost-prose pre code,
+.blogpost-prose pre code.hljs {
+  @apply bg-transparent p-0;
+}
+
+/* Footnotes */
+.blogpost-prose sup a {
+  @apply font-sans no-underline;
+  color: #536c73;
+}
+
+.blogpost-prose .footnotes {
+  @apply mx-auto max-w-xl mt-12 pt-6 border-t border-[#dddddd];
+}
+
+.blogpost-prose .footnotes h2 {
+  @apply sr-only;
+}
+
+.blogpost-prose .footnotes ol {
+  @apply pl-5;
+}
+
+.blogpost-prose .footnotes li {
+  list-style: decimal;
+  font-family: Georgia, 'Times New Roman', serif;
+  color: #2a2a2a;
+}
+
+.blogpost-prose .footnotes p {
+  @apply mb-3;
+  font-size: 1rem;
+  line-height: 1.7;
+}
